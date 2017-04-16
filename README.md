@@ -14,9 +14,9 @@ Thanks!
 ---
 
 
-#2xScaler
+# 2xScaler
 
-###A photoshop extension for App designers
+### A photoshop extension for App designers
 
 ### Double scale your design with one click.
 
@@ -26,19 +26,19 @@ version 1.0
 
 ![](README.img/1.png)
 
-##Screen shot
+## Screen shot
 
 ![](README.img/3.png)
 
 
-##Feature
+## Feature
 
 App designers should understand what's it.
 
 ![](README.img/2.png)
 
 
-##install
+## install
 
 ![](README.img/4.png)
 
@@ -46,15 +46,15 @@ App designers should understand what's it.
 
 then Adobe extension manager should show up automatically .
 
-##Usage
+## Usage
 
 After installed, you can find it in the photoshop menu:
-####` Window -> Extension -> 2xScaler `
+#### ` Window -> Extension -> 2xScaler `
 
 
 click `+`	or	`-` icon to scale.
 
-##Tips
+## Tips
 
 * Please use the default dark UI
 * Please use CS6 because i didn't test it in cs5
